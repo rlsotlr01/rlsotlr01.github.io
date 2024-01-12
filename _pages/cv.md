@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- 
 Education
 ======
 * B.S. in Mechanical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2013
@@ -26,8 +27,8 @@ Skills
   * English - Advanced
   * Chinese - Advanced
 * Specialty
-  * Linear Control, Nonlinear Control, Optimal Control
-  * Reinforcement Learning, Deep Learning and Machine Learning
+  * Linear Control, Nonlinear Control, and Optimal Control
+  * Reinforcement Learning, Deep Learning, and Machine Learning
 
 Publications
 ======
@@ -46,7 +47,9 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+ -->
+ 
 Resume
 ======
 * [English Resume](https://rlsotlr01.github.io/files/Resume_eng.pdf)
