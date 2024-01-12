@@ -16,12 +16,18 @@ Education
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * C++
+  * Python
+  * SQL
+  * Java
+* Language
+  * Korean  - Native
+  * English - Advanced
+  * Chinese - Advanced
+* Specialty
+  * Linear Control, Nonlinear Control, Optimal Control
+  * Reinforcement Learning, Deep Learning and Machine Learning
 
 Publications
 ======
