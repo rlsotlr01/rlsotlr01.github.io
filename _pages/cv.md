@@ -41,6 +41,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Resume
 ======
-* Currently signed in to 43 different slack teams
+* [English Resume](https://rlsotlr01.github.io/files/Resume_eng.pdf)
+* [Korean Resume](https://rlsotlr01.github.io/files/Resume_kor.pdf)
+* [Chinese Resume](https://rlsotlr01.github.io/files/Resume_chn.pdf)
