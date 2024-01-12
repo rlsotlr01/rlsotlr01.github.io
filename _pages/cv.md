@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- 
+
 Education
 ======
 * B.S. in Mechanical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2013
@@ -30,6 +30,7 @@ Skills
   * Linear Control, Nonlinear Control, and Optimal Control
   * Reinforcement Learning, Deep Learning, and Machine Learning
 
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications %}
