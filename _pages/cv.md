@@ -27,6 +27,7 @@ Skills
   * English - Advanced
   * Chinese - Advanced
 * Specialty
+  * Safety-Critical Control, Intelligent Decision-Making and Control for Autonomous Driving
   * Linear Control, Nonlinear Control, and Optimal Control
   * Reinforcement Learning, Deep Learning, and Machine Learning
 
