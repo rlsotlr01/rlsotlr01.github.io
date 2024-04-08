@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechanical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2013
-* M.E. in Vehicle Engineering, Tsinghua University, 2021
+* B.S. in Mechanical Engineering, Ulsan National Institute of Science and Technology (UNIST), 2013-2020
+* M.E. in Vehicle Engineering, Tsinghua University, 2021-
   
 Skills
 ======
